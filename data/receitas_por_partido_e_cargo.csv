@@ -1,0 +1,183 @@
+SG_PARTIDO_DOADOR,DS_CARGO,TOTAL_INVESTIDO
+AVANTE,Deputado Distrital,383859.16
+AVANTE,Deputado Estadual,2269061.51
+AVANTE,Deputado Federal,11695373.24
+AVANTE,Governador,324236.17
+AVANTE,Senador,679251.71
+DC,Deputado Distrital,27278.98
+DC,Deputado Estadual,1978536.3
+DC,Deputado Federal,1349937.49
+DC,Governador,155342.73
+DC,Presidente,858099.9
+DC,Senador,86431.87
+DEM,Deputado Distrital,195000
+DEM,Deputado Estadual,24859952.28
+DEM,Deputado Federal,51817642.28
+DEM,Governador,29538442.29
+DEM,Senador,12128012.28
+MDB,Deputado Distrital,2928148.16
+MDB,Deputado Estadual,51213941.82
+MDB,Deputado Federal,114257902.62
+MDB,Governador,49900824.64
+MDB,Senador,37642437.3
+NOVO,Deputado Distrital,34073.96
+NOVO,Deputado Estadual,148871.3
+NOVO,Deputado Federal,772409.61
+NOVO,Governador,3469220.89
+NOVO,Presidente,2853714.12
+NOVO,Senador,110195.13
+#NULO#,Deputado Federal,2796.23
+PATRI,Deputado Distrital,57392
+PATRI,Deputado Estadual,4866268.63
+PATRI,Deputado Federal,7460774.04
+PATRI,Senador,6580
+PCB,Deputado Estadual,670525.17
+PCB,Deputado Federal,660955.07
+PCB,Governador,241102.19
+PCB,Senador,232602.72
+PC do B,Deputado Distrital,155203
+PC do B,Deputado Estadual,4872999.84
+PC do B,Deputado Federal,18369018.27
+PC do B,Governador,6787805.82
+PC do B,Senador,2249145.37
+PCO,Deputado Distrital,8750
+PCO,Deputado Estadual,28900
+PCO,Deputado Federal,41900
+PCO,Governador,13800
+PCO,Senador,14700
+PCO,Vice-governador,1600
+PDT,Deputado Distrital,126010.89
+PDT,Deputado Estadual,6847986.36
+PDT,Deputado Federal,17990499.87
+PDT,Governador,15960797.36
+PDT,Presidente,23310995
+PDT,Senador,6852200
+PHS,Deputado Distrital,546005.1900000001
+PHS,Deputado Estadual,3783552.33
+PHS,Deputado Federal,7044363.85
+PHS,Governador,4255982.5
+PHS,Senador,1295886.06
+PMB,Deputado Estadual,376662.06
+PMB,Deputado Federal,568546.21
+PMN,Deputado Estadual,468035.91
+PMN,Deputado Federal,5937946.25
+PMN,Governador,1620
+PMN,Senador,1080.76
+PODE,Deputado Distrital,245624.48
+PODE,Deputado Estadual,9679833.66
+PODE,Deputado Federal,19580301.72
+PODE,Governador,3248500.2
+PODE,Presidente,3300000
+PODE,Senador,2020000
+PP,Deputado Distrital,1083000
+PP,Deputado Estadual,46806340.08
+PP,Deputado Federal,122603477.82
+PP,Governador,13076668.01
+PP,Senador,15580206.38
+PPL,Deputado Distrital,7931.8
+PPL,Deputado Estadual,223030.66
+PPL,Deputado Federal,566300.96
+PPL,Presidente,458704.06
+PPS,Deputado Distrital,253400
+PPS,Deputado Estadual,6988062.18
+PPS,Deputado Federal,19989751.46
+PPS,Senador,2437007.27
+PR,Deputado Distrital,3968250
+PR,Deputado Estadual,71742989.24
+PR,Deputado Federal,110164919.61
+PR,Governador,13458755.9
+PR,Senador,16923460.82
+PRB,Deputado Distrital,1678301.8800000001
+PRB,Deputado Estadual,39577147.32
+PRB,Deputado Federal,72956470.37
+PRB,Governador,580000
+PRB,Senador,12375540.23
+PROS,Deputado Distrital,7270945.29
+PROS,Deputado Estadual,12241291.52
+PROS,Deputado Federal,26563902.12
+PROS,Governador,983312.2
+PROS,Senador,314580
+PRP,Deputado Distrital,96909.54
+PRP,Deputado Estadual,2825549.83
+PRP,Deputado Federal,4352514.61
+PRP,Governador,57360.19
+PRP,Senador,46720
+PRTB,Deputado Distrital,17750
+PRTB,Deputado Estadual,1534145.35
+PRTB,Deputado Federal,1230239.39
+PRTB,Governador,181231.01
+PRTB,Presidente,107446.03
+PRTB,Senador,46057.990000000005
+PSB,Deputado Distrital,1463000
+PSB,Deputado Estadual,15466985.72
+PSB,Deputado Federal,58907444.91
+PSB,Governador,33978048.77
+PSB,Senador,19750759.45
+PSC,Deputado Distrital,529360
+PSC,Deputado Estadual,10197735.78
+PSC,Deputado Federal,19850685.53
+PSC,Governador,3403705
+PSC,Senador,4722205.35
+PSD,Deputado Distrital,1573540.86
+PSD,Deputado Estadual,40896019.32
+PSD,Deputado Federal,61386029.8
+PSD,Governador,21375617.52
+PSD,Senador,7381059.97
+PSDB,Deputado Distrital,624703.23
+PSDB,Deputado Estadual,26661393.01
+PSDB,Deputado Federal,72491800.53
+PSDB,Governador,35825071.51
+PSDB,Presidente,53625819.589999996
+PSDB,Senador,32170097.2
+PSL,Deputado Distrital,19459.4
+PSL,Deputado Estadual,4424181.48
+PSL,Deputado Federal,7023018.63
+PSL,Governador,843872
+PSL,Presidente,507916.73000000004
+PSL,Senador,674964.38
+PSOL,Deputado Distrital,184662.66999999998
+PSOL,Deputado Estadual,3959656.06
+PSOL,Deputado Federal,6582130.61
+PSOL,Governador,2066305.28
+PSOL,Presidente,6013150.83
+PSOL,Senador,1311890.57
+PSTU,Deputado Distrital,2397.9300000000003
+PSTU,Deputado Estadual,10802.42
+PSTU,Deputado Federal,30590.93
+PSTU,Governador,334000.66
+PSTU,Presidente,541971.77
+PSTU,Senador,84597.93
+PT,Deputado Distrital,379402.39
+PT,Deputado Estadual,14764859.25
+PT,Deputado Federal,88128500
+PT,Governador,38483888.97
+PT,Presidente,53639842.74
+PT,Senador,25592362.73
+PTB,Deputado Distrital,176071.42
+PTB,Deputado Estadual,40765914.67
+PTB,Deputado Federal,38787124
+PTB,Governador,5168008.83
+PTB,Senador,2117508.92
+PTC,Deputado Distrital,15000
+PTC,Deputado Estadual,1730727.88
+PTC,Deputado Federal,4571426.25
+PTC,Governador,1070000
+PV,Deputado Distrital,67000
+PV,Deputado Estadual,6955261.62
+PV,Deputado Federal,15630039.75
+PV,Governador,1181939.89
+PV,Presidente,478916.56
+PV,Senador,1954142.47
+REDE,Deputado Distrital,8000
+REDE,Deputado Estadual,414413.48
+REDE,Deputado Federal,3468834.29
+REDE,Governador,132395.82
+REDE,Presidente,6435207.2
+REDE,Senador,2359230.66
+REDE,Vice-governador,1200
+SOLIDARIEDADE,2º Suplente,500
+SOLIDARIEDADE,Deputado Distrital,566260
+SOLIDARIEDADE,Deputado Estadual,19123905.91
+SOLIDARIEDADE,Deputado Federal,25778283.97
+SOLIDARIEDADE,Governador,603194.46
+SOLIDARIEDADE,Senador,1106040.8
