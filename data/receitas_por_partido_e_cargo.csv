@@ -26,7 +26,6 @@ NOVO,Deputado Federal,772409.61
 NOVO,Governador,3469220.89
 NOVO,Presidente,2853714.12
 NOVO,Senador,110195.13
-#NULO#,Deputado Federal,2796.23
 PATRI,Deputado Distrital,57392
 PATRI,Deputado Estadual,4866268.63
 PATRI,Deputado Federal,7460774.04
@@ -45,7 +44,6 @@ PCO,Deputado Estadual,28900
 PCO,Deputado Federal,41900
 PCO,Governador,13800
 PCO,Senador,14700
-PCO,Vice-governador,1600
 PDT,Deputado Distrital,126010.89
 PDT,Deputado Estadual,6847986.36
 PDT,Deputado Federal,17990499.87
@@ -175,7 +173,6 @@ REDE,Governador,132395.82
 REDE,Presidente,6435207.2
 REDE,Senador,2359230.66
 REDE,Vice-governador,1200
-SOLIDARIEDADE,2º Suplente,500
 SOLIDARIEDADE,Deputado Distrital,566260
 SOLIDARIEDADE,Deputado Estadual,19123905.91
 SOLIDARIEDADE,Deputado Federal,25778283.97
